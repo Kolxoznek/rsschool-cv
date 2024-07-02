@@ -1,0 +1,77 @@
+body {
+    background: linear-gradient(#b9fdff, #01cdd4);
+}
+
+.container {
+    max-width: 1280px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+}
+.logo {
+    
+}
+.nav {
+}
+.nav__list {
+}
+.nav__item {
+}
+.nav__link {
+}
+.nav-img {
+}
+.main {
+}
+.top-main {
+}
+.top-main__photo {
+}
+.top-main__content {
+}
+.top-main__name {
+}
+.top-main__addictionally {
+}
+.middle-main {
+}
+.hard-skills {
+}
+.technologies {
+}
+.technologies__title {
+}
+.technologies__list {
+}
+.technologies__item {
+}
+.technology__img {
+}
+.technology__name {
+}
+.code {
+}
+.code__tite {
+}
+.code__subtitle {
+}
+.about-me {
+}
+.about-me__title {
+}
+.about-me__text {
+}
+.footer {
+}
+.footer__top {
+}
+.footer-link {
+}
+.footer-img {
+}
+.footer__bottom {
+}
+.footer__bottom-text {
+}
