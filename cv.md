@@ -11,7 +11,7 @@ I’ve been learning programming for over a year
 now and managed to work as a freelancer creating websites on the WordPress CMS.
 
 At the moment I have mastered such technologies as:
-HTML, CSS, JS, SCSS, GULP, Vite, GIT, BEM naming.
+HTML, CSS, JS, Sass, GULP, Vite, GIT, Figma
 
 Sample code from codewars:
 6 kyu
