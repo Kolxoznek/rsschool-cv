@@ -163,10 +163,6 @@ p {
     display: flex;
     justify-content: space-between;
 }
-.social-links {
-    display: flex;
-    gap: 10px;
-}
 .footer-link {
     text-decoration: none;
 }
